@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplicationBasic_Crud.props" />
+</Project>
